@@ -55,10 +55,12 @@ Shortcut : F12 > Html
 
 ## 6. Balises principales
 
+* div : block/section
+* span : group inline
 * p : paragraphe
 * h1,h2,h3,h4,h5,h6 : titres
 * ul > li : liste non ordonnée
-* ol > li : liste ordonnée
+* ol > li : liste ordonné
 
 
 ## 7. Balises secondaires (souvent remplacées par du CSS)
